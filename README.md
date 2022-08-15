@@ -38,7 +38,7 @@ Webアプリケーションとは、Webの仕組みを利用した上で動作�
 
   　　　　　　・「Java Servlet」をメモリ上に展開する
 
- 　　　　　　 ・JPSをJava Servletに変換して、レスポンスを返す。
+  　　　　　　・JPSをJava Servletに変換して、レスポンスを返す。
   
   　　　　　　・「JDBC」というAPIを使用してJavaからデータベスにアクセスする
 
