@@ -115,3 +115,20 @@ C : Controller → ユーザからリクエストを受け付ける
 
 このように役割ごとにプログラムを記述することで簡潔にWebアプリケーションを作成することができます。
 
+**参考にされた資料のURL**
+
+https://prog-8.com/docs/web-application
+
+https://www.infraexpert.com/info/server17.html
+
+https://www.fenet.jp/java/column/java_beginner/3357/
+
+https://www.sejuku.net/blog/12902
+
+https://style.potepan.com/articles/29175.html
+
+https://udemy.benesse.co.jp/development/app/spring-boot.html
+
+https://medium-company.com/spring-boot%E7%92%B0%E5%A2%83%E6%A7%8B%E7%AF%89/
+
+https://tech-blog.rakus.co.jp/entry/20201110/java
