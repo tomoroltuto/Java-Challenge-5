@@ -3,7 +3,7 @@ Java-Challenge-5は以下についてまとめたものです。
 
 **① Webアプリケーションについて**
 
-**②Javaのエディションの違い（Java SE・Java EE）**
+**②Javaのエディションの違い（Java SE・Jakarta EE）**
 
 **③Javaのアプリケーションとは**
 
@@ -59,7 +59,7 @@ Webアプリケーションとは、Webの仕組みを利用した上で動作�
 ![Webアプリケーション(1)](https://user-images.githubusercontent.com/90845405/184581078-19429ee1-1aee-4a96-a837-afcb30a140c9.jpg)
 
 
-# ② Javaのエディションの違い（Java SE・Java EE）
+# ② Javaのエディションの違い（Java SE・Jakarta EE）
 
 * Java SEとはJava言語でプログラミングを行う際に最低限必要な機能をまとめたものです。
 
@@ -69,13 +69,13 @@ Webアプリケーションとは、Webの仕組みを利用した上で動作�
 
 * JDKとはJava言語でプログラムを組む際に必要なソフト（開発キット）のことでJava SEを使ってJava言語でプログラムを書く場合にはこのJDKが必須になります。
 
-* JavaEEとはJavaSEを元にしてサーバーサイドの機能を追加したもので、主にWebアプリケーションを開発する際に用いられます。簡単に言うと「JavaSE+拡張機能」といった構成になります。
+* Jakarta EEとはJavaSEを元にしてサーバーサイドの機能を追加したもので、主にWebアプリケーションを開発する際に用いられます。簡単に言うと「JavaSE+拡張機能」といった構成になります。
 
 * Java SEとJava EE の違いは以下になります。
 ```bash
 ・JavaSEは「Javaの基本機能をまとめたもの」
 
-・JavaEEは「JavaSE+拡張機能」
+・Jakarta EEは「JavaSE+拡張機能」
 ``` 
 
 # ③ Javaのアプリケーションとは
