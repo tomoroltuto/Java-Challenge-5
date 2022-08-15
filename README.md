@@ -70,7 +70,7 @@ Webアプリケーションとは、Webの仕組みを利用した上で動作�
 
 * Jakarta EEとはJavaSEを元にしてサーバーサイドの機能を追加したもので、主にWebアプリケーションを開発する際に用いられます。簡単に言うと「JavaSE+拡張機能」といった構成になります。
 
-* Java SEとJava EE の違いは以下になります。
+* Java SEとJakarta EEの違いは以下になります。
 ```bash
 ・JavaSEは「Javaの基本機能をまとめたもの」
 
